@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    box-sizing: content-box;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin: 4rem;
+    height: 40rem;
+    background-color:blueviolet;
+}
+
+.cll{
+    background-color: white;
+    border-radius: 2rem;
+    width: 50rem;
+    padding: 50px;
+}
+
+.mmo{
+    padding-left: 200px;
+}
+
+
+.stay{
+    gap: 7rem;
+}
+
+
+.aaz{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 10rem;
+    padding: 14px;
+    transition: 0.5s ease-in-out;
+    display: inline-block;
+}
+
+.aaz:hover{
+    color: aquamarine;
+    padding: 20px;
+}
+
+.aax{
+    padding: 10px;
+    width: 130px;
+    padding-left: 70px;
+    border-radius: 10rem;
+    display: inline-block;
+    transition: 0.5s ease-in-out;
+}
+
+.aax :hover{
+    color: antiquewhite;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* {
+    animation: name 0.4s ease-in-out infinite alternate;
+    transform: translateY();
+}
+@keyframes live{
+    scale: ;
+    opacity: ;
+    rotate;
+} 
+q{
+    display:flex;
+    justify-content: center;
+    gap: 2%;
+    align-items:center;
+    aspect-ratio: 1;
+    
+} */

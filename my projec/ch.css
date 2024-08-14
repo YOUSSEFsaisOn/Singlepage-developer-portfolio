@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    box-sizing: content-box;
+    background-color: #f2dfdf;
+    margin: 50px;
+}
+.uo{
+    margin: 0%;
+    box-sizing: content-box;
+    background-color: aliceblue;
+    padding: 50px;
+}
+img{
+    width: 260px;
+    height: 190px;
+    box-sizing: content-box;
+    display: flex;
+    display: block;
+    object-fit: contain ;
+    object-fit: cover;
+    align-items: center;
+}
+.col{
+    background-color: #f2dfdf;
+    padding: 10px;
+    margin: 0%;
+}

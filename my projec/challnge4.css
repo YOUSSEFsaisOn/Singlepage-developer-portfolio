@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    box-sizing: content-box;
+    font-family: sans-serif;
+}
+body{
+    margin: 10px;
+    padding: 20px;
+    padding-left: 430px;
+    background-color: #dedede;
+}
+
+.hh1{
+    font-size: 20px;
+    margin: 20px;
+}
+
+.ass1{
+    font-size: 15px;
+    padding-left: 300px;
+    color: #858585;
+}
+
+.diiv1{
+    background-color: white;
+    margin: 15px ;
+    padding: 20px;
+    width: 640px;
+    height: 850px;
+    border-radius: 15px;
+    transition: 300px;
+}
+
+.diiv1 :hover{
+    padding: 20px;
+    color: #000072;
+}
+.aa{
+    margin: 5px;
+    margin-left: 40px;
+    background-color:#f7f7f7;
+    border-radius: 15px;
+    width: 34pc;
+    padding: 8px;
+    color: black;
+    transition: all 0.6s ease-out;
+    text-decoration: none;
+    align-content: center;
+    display: inline-block
+}
+.aa :hover{
+    color: blue;
+}
+
+.as1{
+    color: #ababab;
+}
+
+.as2{
+    color: #858585;
+    font-size: 16px;
+}
+
+.as3{
+    margin-left: 48px;
+    color: #ababab;
+}
+
+
+.im1{
+    margin: 0%;
+    padding: 0%;
+    border: 0;
+    width: 30px;
+    height: 40px;
+    clip-path: circle();
+}
+.asa2{
+    color: rgb(5, 5, 110);
+    font-size: 18px;
+}
+
+.diiv2{
+    padding-left: 50px;
+}
+
+.ppo{
+    margin: 20px;
+    width: 450px;
+    border: #ababab solid 1px;
+    padding: 20px;
+}
+
+.aa2{
+    margin: 5px;
+    margin-left: 40px;
+    background-color:#f7f7f7;
+    border-radius: 15px;
+    width: 34pc;
+    padding: 8px;
+    color: black;
+    transition: all 0.6s ease-out;
+    text-decoration: none;
+    align-content: center;
+    display: inline-block
+}
+
+.ll1{
+    color: #ababab;
+}
+
+.ll2{
+    color: #ababab;
+}
+
+.ll3{
+    color: #ababab;
+}
+
+.ll4{
+    color:  #858585;
+    font-size: 16px;
+}
+
+.ll5{
+    color: #ababab;
+}
+
+.ll6{
+    color: #ababab;
+}
+
+.ll7{
+    color: rgb(5, 5, 110);
+    font-size: 18px;
+}
+
+.ll8{
+    color: #ababab;
+}
+
+.im2{
+    margin: 0%;
+    padding: 0%;
+    border: 0;
+    width: 30px;
+    height: 40px;
+    clip-path: circle();
+}
+
+.hw3{
+    border-radius: 5px;
+    background-color: #000072;
+    color: white;
+    letter-spacing: 10px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
